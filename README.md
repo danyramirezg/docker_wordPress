@@ -11,7 +11,7 @@ sudo docker-compose up
 3. Find the IP Address of the container:
 
 ```
-docker inspect <container id> | grep IPAddress
+sudo docker inspect <container id> | grep IPAddress
 ```
 
 4. Example: "IPAddress": "172.19.0.3"
