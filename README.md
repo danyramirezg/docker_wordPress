@@ -16,6 +16,6 @@ sudo docker inspect <container id> | grep IPAddress
 
 4. Example: "IPAddress": "172.19.0.3"
 
-5. Run the IPAddress in your browser
+5. Run the IPAddress number in your browser
 
 6. You're all set!
